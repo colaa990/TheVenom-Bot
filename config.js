@@ -8,8 +8,8 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['201554582851', '❄️ 𝙑𝙀𝙉𝙊𝙈 🧿', true],
-  ['201033024135', '🔥 𝙎𝙊𝙆𝙐𝙉𝘼 🧿', true],
+  ['201205202868', '❄️ 𝙑𝙀𝙉𝙊𝙈 🧿', true],
+  ['201550880448', '🔥 𝙎𝙊𝙆𝙐𝙉𝘼 🧿', true],
 ];
 
 global.xaxa = 'kaneki'
